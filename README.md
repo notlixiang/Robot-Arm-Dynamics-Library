@@ -1,4 +1,4 @@
-#Robot Arm Dynamics Library
+# Robot Arm Dynamics Library
 
 This library provides an c++ class to calculate torque of robot joints using Newton-Euler method.
 

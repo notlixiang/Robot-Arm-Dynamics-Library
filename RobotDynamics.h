@@ -7,7 +7,8 @@
 using namespace std;
 
 
-class RobotDynamics {
+class RobotDynamics
+{
 public:
     RobotDynamics(unsigned int JOINT_NUM_, vector<Eigen::Vector3d> mass_center_,
                   vector<Eigen::Matrix3d> inertia_, vector<double> mass_,
